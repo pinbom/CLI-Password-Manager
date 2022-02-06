@@ -16,4 +16,4 @@ As of now, this program requires you to self-compile (although this probably won
 
 **Step 6: Type into your terminal javac PasswordManager.java**
 
-**Step 7: Type into the terminal window java Password, and the program should run**
+**Step 7: Type into the terminal window java PasswordManager, and the program should run**
