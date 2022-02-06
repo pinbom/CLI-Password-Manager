@@ -4,7 +4,7 @@ Command Line based Password manager, programmed in Java
 As of now, this program requires you to self-compile (although this probably won't change, because this is just a self-project), you can find a guide on how to compile in the section below.
 
 ## Installation Guide
-**Step 1: First, install the Java Development Kit (JDK), here is a download link to the JDK SE from Oracle**
+**Step 1: First, install the Java Development Kit (JDK), here is a download link to the [JDK SE from Oracle](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)**
 
 **Step 2: Second, download the entire repo as a ZIP folder.**
 
